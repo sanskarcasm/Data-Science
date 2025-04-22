@@ -3,7 +3,7 @@ from textblob import TextBlob
 import csv
 import time
 
-# Step 1 - Authenticate
+#Authentication
 consumer_key= 'FEC4oPmCTk8M7pdbuUmz4qoty'
 consumer_secret= 'OVN70EYOjnmqsvuNEBXFVPu29cIEJIRjNeI3GoB5EcwwHr4EuA'
 bearer_token="AAAAAAAAAAAAAAAAAAAAAKyt0AEAAAAAYGvfViU%2B%2B1LGTd1M8IWmWZ8c2wE%3D45GQjF0lcwT54MaTDWMOi9CmSe8qkdhdysqarFOkMIyqz9GBB3"
@@ -17,7 +17,7 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 client = tweepy.Client(bearer_token=bearer_token)
 
-# Step 2 - Define Function to Fetch and Save Tweets
+# Define Function to Fetch and Save Tweets
 def fetch_and_save_tweets(query, filename="tweets.csv"):
     try:
         response = client.search_recent_tweets(query=query, max_results=10)
@@ -49,5 +49,5 @@ def fetch_and_save_tweets(query, filename="tweets.csv"):
         time.sleep(900)
         fetch_and_save_tweets(query, filename)
 
-# Step 3 - Run Function
+# Execute
 fetch_and_save_tweets("Trump")
