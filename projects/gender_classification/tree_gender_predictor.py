@@ -20,7 +20,6 @@ Y = ['male', 'male', 'female', 'female', 'male', 'male', 'female', 'female',
      'female', 'male', 'male', 'female', 'male', 'male']
 
 
-# CHALLENGE - ...and train them on our data
 
 clf = clf.fit(X, Y)
 clf2 = clf2.fit(X, Y)
