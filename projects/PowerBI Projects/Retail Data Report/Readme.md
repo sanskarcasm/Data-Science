@@ -9,7 +9,7 @@ Fields:
 
 ORDER_ID, ORDER_DATE, SHIP_DATE, SHIP_MODE, CUSTOMER_ID, CUSTOMER_NAME, SEGMENT, COUNTRY, CITY, STATE, POSTAL_CODE, REGION, PRODUCT_ID, CATEGORY, SUB-CATEGORY, PRODUCT_NAME, SALES
 
-Time Range: March 2015 – October 2028
+Time Range: March 2015 – October 2018
 
 🚦 Step-by-Step Process
 Data Import: Connected Power BI to the Kaggle sales forecasting dataset and imported the DATA table.
