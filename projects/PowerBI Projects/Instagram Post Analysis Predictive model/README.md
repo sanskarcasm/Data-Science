@@ -1,5 +1,4 @@
-📊 Instagram Analytics Assessment – My Thriving Chil
-
+📊 Instagram Analytics Assessment 
 This submission includes an end-to-end analysis of Instagram performance using Power BI and Python, focused on key metrics such as engagement, reach, follower trends, and content effectiveness.
 
 📁 Folder Structure
