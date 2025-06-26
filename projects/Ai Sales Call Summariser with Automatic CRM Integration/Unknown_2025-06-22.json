@@ -1,0 +1,24 @@
+{
+  "contact_name": "Unknown",
+  "company": "Unknown",
+  "pain_points": [
+    "Difficulty integrating analytics tools",
+    "Manual report pulling process takes a lot of time",
+    "Separate marketing and sales data slows down reporting"
+  ],
+  "objections": "['Time it might take to get set up']",
+  "interest_level": "High",
+  "next_steps": [
+    "Technical overview email",
+    "Pricing details email",
+    "Follow-up call next week"
+  ],
+  "confidence": {
+    "contact_name": "Low",
+    "company": "Low",
+    "pain_points": "High",
+    "objections": "Medium",
+    "interest_level": "High",
+    "next_steps": "High"
+  }
+}
