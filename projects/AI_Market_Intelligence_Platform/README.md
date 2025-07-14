@@ -178,4 +178,4 @@ Feel free to open issues for suggestions, bugs, or feature requests.
 MIT License
 
 Built with ❤️ using Python, Streamlit, ChromaDB, and Llama (Ollama).
-For questions or collaboration: [your-email@example.com]
+For questions or collaboration: sanskaraugpant@gmail.com
