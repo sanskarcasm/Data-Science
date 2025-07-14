@@ -123,14 +123,13 @@ Edit
 
 ### **1. Clone this repository**
 
-```bash
 git clone https://github.com/yourusername/MarketIntelligencePlatform.git
 cd MarketIntelligencePlatform
+
 2. Install dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
+
 3. Prepare your data
 Prototype data is preloaded from BooksToScrap. To use your own:
 
@@ -139,20 +138,16 @@ Modify scrape_article.py, or
 Drop files into the books/ folder
 
 4. Index your data
-bash
-Copy
-Edit
+
 python langchain_persist.py
+
 5. Start Ollama with Llama model
-bash
-Copy
-Edit
+
 ollama pull llama3
 ollama serve
+
 6. Launch the Streamlit app
-bash
-Copy
-Edit
+
 streamlit run rag_app.py
 📈 Future Scope
 Multi-Source Integration: Ingest news, social media, internal docs
