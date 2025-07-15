@@ -41,29 +41,41 @@ Edit
 
 ## 🚀 Featured Projects
 
-### 📚 AI-Driven Market Intelligence Platform (2025)
+### 🧑‍🏫 AI-Driven Market Intelligence Platform (2025)
 **Technologies:** Python, LangChain, Ollama (LLaMA3), ChromaDB, Streamlit  
-Builds a modular RAG pipeline to extract insights from internal business or product data using semantic search and local LLMs. Includes a Streamlit UI, embeddings pipeline, vector search, and local inference for market reports, documents, or catalog data.
+A modular platform built using Retrieval-Augmented Generation (RAG) to generate contextual insights from internal business or market data. It ingests documents (scraped web data, CSVs), embeds them using Sentence Transformers, stores vectors in ChromaDB, and serves contextual answers via Llama3 using Ollama. The app features a Streamlit interface for querying and real-time market research.
+
+> 🔍 Future Scope: Multi-source live ingestion (news, social feeds), user-level personalization, advanced analytics (trend detection), cloud deployment with authentication.
+
+---
 
 ### 🎧 AI Sales Call Summarizer with CRM Integration (Jun 2025)
 **Technologies:** Whisper, Ollama LLaMA3, Python, HubSpot API  
-Automatically transcribes and analyzes sales calls, summarizes pain points and next steps, then logs structured notes directly into HubSpot CRM. Automates follow-ups and improves sales team productivity.
+Automatically transcribes and summarizes Zoom/Meet/Gong sales calls. Extracts key concerns, action items, and next steps, which are logged into HubSpot CRM via API. Automates follow-ups and streamlines sales workflows while improving data quality and CRM coverage.
+
+---
 
 ### 🧬 LLM Benchmarking for Cell Type Annotation (May–Sep 2024)
 **Technologies:** Python, HuggingFace, TensorFlow, Kani, HPC, Scanpy  
-Benchmarked multiple open-source LLMs to automate scRNA-seq annotation. Achieved 82% accuracy and identified cost-effective models. Integrated into a reproducible benchmarking pipeline.
+Benchmarked open-source LLMs to automate cell type annotation in single-cell RNA-seq data. Integrated models into a benchmarking pipeline and evaluated across 100K+ biomedical records. Identified optimal LLM with 82% accuracy and reduced manual labor by 30%.
+
+---
 
 ### 📈 Hierarchical Sales Forecasting with Explainable AI (Jun 2025)
 **Technologies:** LightGBM, SHAP, Pandas  
-Modeled multi-level sales forecasts using LightGBM, achieving 18% improvement in RMSE. Used SHAP for explainability to identify key features across state, store, and category levels.
+Generated daily forecasts at multiple levels (state → store → product) with LightGBM. Engineered time and event features and visualized SHAP values to explain 100K+ predictions. Improved RMSE by 18% and uncovered key drivers like sell price and seasonality.
+
+---
 
 ### 🐦 Tweet Sentiment Analyzer (Apr 2025)
 **Technologies:** Python, Tweepy, Streamlit, TextBlob, Logistic Regression  
-Real-time sentiment analysis on tweets filtered by keywords. Achieved 89% accuracy and deployed on Streamlit for live dashboards and trend tracking.
+Built a real-time sentiment analyzer for Twitter data using custom keyword filters. Achieved 89% classification accuracy and visualized results on a responsive Streamlit dashboard.
+
+---
 
 ### 👤 Gender Classification using ML (Mar 2025)
 **Technologies:** Scikit-learn, SVM, k-NN, Decision Tree  
-Built classifiers on a body measurements dataset with SVM achieving an F1-score of 0.91. Compared performance of multiple algorithms using cross-validation.
+Trained ML classifiers on 3,000+ human body measurements to predict gender. Evaluated with cross-validation and achieved a best F1-score of 0.91 using SVM, outperforming baseline models.
 
 ---
 
@@ -73,15 +85,19 @@ These dashboards demonstrate interactive business intelligence capabilities and 
 
 ### 📷 Instagram Performance Analytics (Jun 2025)
 **Tools:** Power BI, Snowflake, SQL, DAX  
-Analyzed social media metrics including engagement, reach, and follower trends. Identified content type impact and geo-specific strategies.
+Analyzed engagement and reach across post types and geographies. Identified that REELS performed 2x better than FEED posts and discovered regional targeting opportunities.
+
+---
 
 ### 🍫 Chocolate Sales Analysis (May 2025)
 **Tools:** Power BI, DAX, Excel  
-Built an executive-ready dashboard with KPIs across regions and months. Reduced manual report time and enabled advanced year-over-year comparisons.
+Created an executive dashboard for 12 months of global sales across 5 regions. Enabled KPI tracking, multi-year comparisons, and reduced reporting time by 50%.
+
+---
 
 ### 🛍️ Retail Sales Analysis (Jun 2025)
 **Tools:** Power BI, SQL, DAX  
-Delivered actionable insights on product and regional performance. Highlighted a 68% sales growth trend and optimized strategy recommendations.
+Interactive dashboard for retail sales trends, tracking KPIs such as Sales YTD, regional performance, and category breakdown. Revealed a 68% growth trend and helped identify sales-driving products.
 
 ---
 
@@ -95,15 +111,10 @@ Python, LangChain, Ollama LLaMA3, Whisper, ChromaDB, Sentence Transformers, Ligh
 
 If you're a recruiter, collaborator, or simply interested in AI for real-world business problems, feel free to connect or reach out.
 
-📬 [Email](sanskaraugpant@gmail.com)
+📬 [Email](mailto:sanskaraugpant@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sanskar-pant-44b3801ab)  
 🌐 [Portfolio Website](https://www.datascienceportfol.io/sanskaraugpant)
 
----
-
-## 📄 License
-
-This repository is released under the [MIT License](LICENSE).
 
 ---
 
