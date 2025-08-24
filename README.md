@@ -29,6 +29,7 @@ DataScienceProjects/
 │ ├── Instagram_Performance_Analytics/
 │ ├── Chocolate_Sales_Analysis/
 │ ├── Retail_Sales_Analysis/
+│ ├── Churn_Analysis/
 │
 ├── README.md
 └── requirements.txt (optional)
@@ -100,6 +101,10 @@ Created an executive dashboard for 12 months of global sales across 5 regions. E
 Interactive dashboard for retail sales trends, tracking KPIs such as Sales YTD, regional performance, and category breakdown. Revealed a 68% growth trend and helped identify sales-driving products.
 
 ---
+
+### 📊 Olist Churn Analysis & BI Dashboard
+**Tools:** Power BI, SQL, DAX, Excel, Kagle
+This repository contains the data, source code, and reporting assets for the Olist customer churn and retention analysis. The project leverages cleaned ecommerce datasets to build a comprehensive Power BI dashboard and deliver actionable business insights focusing on customer churn, revenue trends, delivery performance, and product category analysis.
 
 ## 🛠️ Skills & Technologies
 
