@@ -102,7 +102,7 @@ Interactive dashboard for retail sales trends, tracking KPIs such as Sales YTD, 
 
 ---
 
-### 📊 Olist Churn Analysis & BI Dashboard
+### 📊 Olist Churn Analysis & BI Dashboard (Aug 2025)
 **Tools:** Power BI, SQL, DAX, Excel, Kagle
 This repository contains the data, source code, and reporting assets for the Olist customer churn and retention analysis. The project leverages cleaned ecommerce datasets to build a comprehensive Power BI dashboard and deliver actionable business insights focusing on customer churn, revenue trends, delivery performance, and product category analysis.
 
