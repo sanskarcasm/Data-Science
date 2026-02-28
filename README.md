@@ -1,6 +1,6 @@
 # 📊 Data Science Projects Portfolio
 
-Welcome to my Data Science Projects Repository — a comprehensive collection of real-world projects that solve practical business problems using data, AI, and modern machine learning tools.
+Welcome to my Data Science Projects Repository which is a comprehensive collection of real-world projects that solve practical business problems using data, AI, and modern machine learning tools.
 
 This portfolio reflects the projects featured on my resume and includes:
 - AI-driven applications using LLMs and RAG
