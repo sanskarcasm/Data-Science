@@ -8,6 +8,7 @@ This portfolio reflects the projects featured on my resume and includes:
 - Exploratory data analysis
 - Business dashboards using Power BI
 - CRM and NLP integrations
+- Airport Catering Performance Analysis
 
 Each project is self-contained inside the `Projects/` directory and showcases a variety of skills in data collection, preprocessing, modeling, interpretability, and deployment.
 
