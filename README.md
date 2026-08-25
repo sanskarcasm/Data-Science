@@ -20,23 +20,19 @@ DataScienceProjects/
 ├── Projects/
 │ ├── AI_Market_Intelligence_Platform/
 │ ├── AI_Sales_Call_Summarizer/
+│ ├── Airport_Cafeteria_Performance_Report/
 │ ├── LLM_Cell_Annotation_Benchmarking/
 │ ├── Hierarchical_Sales_Forecasting/
 │ ├── Tweet_Sentiment_Analyzer/
 │ ├── Gender_Classification_ML/
-│
-├── Power BI Projects/
-│ ├── Instagram_Performance_Analytics/
-│ ├── Chocolate_Sales_Analysis/
-│ ├── Retail_Sales_Analysis/
-│ ├── Churn_Analysis/
+│ ├── Power BI Projects/
+│   ├── Instagram_Performance_Analytics/
+│   ├── Chocolate_Sales_Analysis/
+│   ├── Retail_Sales_Analysis/
+│   ├── Churn_Analysis/
 │
 ├── README.md
-└── requirements.txt (optional)
-
-yaml
-Copy
-Edit
+└── requirements.txt 
 
 ---
 
@@ -105,6 +101,12 @@ Interactive dashboard for retail sales trends, tracking KPIs such as Sales YTD, 
 ### 📊 Olist Churn Analysis & BI Dashboard (Aug 2025)
 **Tools:** Power BI, SQL, DAX, Excel, Kagle
 Interactive dashboard analyzing ecommerce customer churn and revenue trends, tracking KPIs such as total revenue, churn rate, delivery delays, and product category performance. Highlighted a high 93.7% churn rate and key geographic and product segments, enabling targeted retention and operational improvements.
+
+---
+
+### ✈️ Airport Catering Performance Analysis (Aug 2026)
+**Tools:** Excel, SUMIFS / INDEX-MATCH / MAXIFS, Data Validation
+Built an interactive Excel dashboard from 18 months of sales and passenger data for five airport catering outlets. Used a like-for-like January to June comparison to track YTD sales, year-on-year growth, spend per passenger, and per-outlet performance. Found that one outlet drove over half of all revenue, caught a likely data error inflating one month by about 10x, and surfaced a declining outlet before it would reach an annual review.
 
 ---
 
