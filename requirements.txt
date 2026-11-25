@@ -1,1 +1,24 @@
-pip install -r requirements.txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+shap
+streamlit
+python-dotenv
+requests
+beautifulsoup4
+textblob
+tweepy
+hubspot-api-client
+openai-whisper
+torch
+transformers
+huggingface_hub
+sentence-transformers
+chromadb
+langchain
+langchain-community
+nest_asyncio
+scanpy
